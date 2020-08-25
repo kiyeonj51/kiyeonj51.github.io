@@ -14,7 +14,7 @@ Education
 * B.S. in ECE, Seoul National University, 2015
 * M.S. in ECE, UT Austin, 2017
 * M.S. in Statistics, UT Austin, 2021 (expected)
-* Ph.D in Statistics, UT Austin, 2022 (expected)
+* Ph.D in ECE, UT Austin, 2022 (expected)
 
 Work experience
 ======
